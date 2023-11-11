@@ -1,0 +1,11 @@
+{
+  "name": "aspend.xyz",
+  "short_name": "aspend",
+  "lang": "en-US",
+  "theme_color": "#0F0F0F",
+  "background_color": "#0F0F0F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
